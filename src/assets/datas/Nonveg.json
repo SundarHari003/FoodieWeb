@@ -1,0 +1,63 @@
+[
+    {
+        "id":1,
+        "name":"Hyderabadi Biryani",
+        "price":850,
+        "img":"https://vismaifood.com/storage/app/uploads/public/980/eb9/ed6/thumb__1200_0_0_0_auto.jpg"
+    },
+    {
+        "id":2,
+        "name":"Butter Chicken",
+        "price":350,
+        "img":"https://hips.hearstapps.com/hmg-prod/images/delish-191119-butter-chicken-0375-landscape-pf-1574729676.jpg?crop=1xw:0.8435280189423836xh;center,top&resize=1200:*"
+    },
+    {
+        "id":3,
+        "name":"Chicken Chettinad",
+        "price":300,
+        "img":"https://swatisani.net/kitchen/wp-content/uploads/2015/10/IMG_9350.jpg"
+    },
+    {
+        "id":4,
+        "name":"Rogan Josh",
+        "price":900,
+        "img":"https://2.bp.blogspot.com/--qSXjvPqwlk/WNIdQmvaN6I/AAAAAAAADAg/h0j9hytktVY2lFI_AuhBR1fE7UkfK3t0gCLcB/s1600/Mutton%2BRogan%2BJosh%2BRecipe.JPG"
+    },
+    {
+        "id":5,
+        "name":"Fish Curry",
+        "price":200,
+        "img":"https://www.thedeliciouscrescent.com/wp-content/uploads/2023/07/Fish-Curry-4.jpg"
+    },
+    {
+        "id":6,
+        "name":"Tandoori Chicken",
+        "price":1550,
+        "img":"https://onestophalal.com/cdn/shop/articles/air_fryer_chicken_tandoori-1694242200588_1200x.jpg?v=1694242335"
+    },
+    {
+        "id":7,
+        "name":"Lobster Masala",
+        "price":900,
+        "img":"https://cdn.vox-cdn.com/thumbor/1elKPd4SUVRxUaXp74adh85BzZk=/0x0:2560x1920/1200x800/filters:focal(1076x756:1484x1164)/cdn.vox-cdn.com/uploads/chorus_image/image/70804401/VICTA_EATER_AT_HOME_LOBSTER_CURRY_dish_only_horizontal_2.0.jpg"
+    },
+    {
+        "id":8,
+        "name":"Kerala Fish Fry",
+        "price":400,
+        "img":"https://sc0.blr1.cdn.digitaloceanspaces.com/article/133974-ghnohbrdfj-1578050534.jpg"
+    },
+    {
+        "id":9,
+        "name":"Nihari",
+        "price":999,
+        "img":"https://upload.wikimedia.org/wikipedia/commons/3/37/Mutton_Nihari.jpg"
+    },
+    {
+        "id":10,
+        "name":"Mutton Curry",
+        "price":750,
+        "img":"https://www.licious.in/blog/wp-content/uploads/2023/02/shutterstock_2205168763-600x406.jpg"
+    }
+    
+]

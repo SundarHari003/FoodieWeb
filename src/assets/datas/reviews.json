@@ -1,0 +1,27 @@
+[
+    {
+        "id":1,
+        "paragraph":"Spice Route Indian Cuisine's biryani is a flavorful masterpiece, with aromatic spices infusing each grain of rice. Whether you choose chicken, lamb, or vegetable, the dish is cooked to perfection, bursting with layers of flavor. It's a must-try for lovers of authentic Indian cuisine.",
+        "name":"Asha Patel"
+    },
+    {
+        "id":2,
+        "paragraph":"Delizioso Italian Eatery's tandoori dishes offer a unique fusion of Indian and Italian flavors. From the perfectly marinated tandoori chicken to the crispy tandoori naan bread, each bite is a burst of tantalizing spices. It's a delightful choice for those craving something exotic yet familiar.",
+        "name":"Maya Sharma"
+    },
+    {
+        "id":4,
+        "paragraph":"Absolutely loved the butter chicken! The chicken was so tender and flavorful, and the creamy tomato-based sauce was just heavenly. It had the perfect balance of spices, not too mild, not too hot. The aroma alone was mouthwatering. Served with a side of naan, it was a delightful meal that left me craving for more.",
+        "name":"Aarav Sharma"
+    },
+    {
+        "id":5,
+        "paragraph":"The paneer tikka was a real treat! The chunks of paneer were marinated to perfection with spices and grilled to a nice char. Each bite was bursting with flavors, and the paneer was wonderfully soft and creamy. The accompanying mint chutney added a refreshing kick to the dish. A great vegetarian option that even non-vegetarians would enjoy!",
+        "name":"Priya Patel"
+    },
+    {
+        "id":6,
+        "paragraph":"Biryani is always a favorite, and this one did not disappoint! The aroma alone was enough to make my mouth water. The rice was perfectly cooked, each grain distinct and infused with the rich flavors of spices and herbs. The tender pieces of chicken were a delight to savor. The dish was well-balanced, not too spicy but still packed with flavor",
+        "name":"Arjun Singh"
+    }
+]

@@ -1,0 +1,63 @@
+[
+    {
+        "id":1,
+        "name":"Idly Sambar",
+        "price":100,
+        "img":"https://palmbeachuk.com/wp-content/uploads/2023/12/idli-sambar-vada-in-wembly-indian-restaurant.png"
+    },
+    {
+        "id":2,
+        "name":"Masala Dosa",
+        "price":150,
+        "img":"https://vanitascorner.com/wp-content/uploads/2021/07/Masala-Dosa.jpg"
+    },
+    {
+        "id":3,
+        "name":"Shahi Paneer",
+        "price":150,
+        "img":"https://myfoodstory.com/wp-content/uploads/2022/04/Shahi-Paneer-1.jpg"
+    },
+    {
+        "id":4,
+        "name":"Vegetable Korma",
+        "price":200,
+        "img":"https://img.taste.com.au/gM9EV-Ge/taste/2016/11/vegetable-korma-curry-103329-1.jpeg"
+    },
+    {
+        "id":5,
+        "name":"Pongal",
+        "price":100,
+        "img":"https://www.spiceindiaonline.com/wp-content/uploads/2014/01/Ven-Pongal-3.jpg"
+    },
+    {
+        "id":6,
+        "name":"Aloo Paratha",
+        "price":250,
+        "img":"https://c.ndtvimg.com/2023-04/oo2r2eb8_aloo-paratha_625x300_28_April_23.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738"
+    },
+    {
+        "id":7,
+        "name":"Vegetable Pulao",
+        "price":350,
+        "img":"https://geekrobocook.com/wp-content/uploads/2021/01/39_Vegetable-Pulav.jpg"
+    },
+    {
+        "id":8,
+        "name":"Chana Masala",
+        "price":350,
+        "img":"https://www.seriouseats.com/thmb/2KtHVPso7I68piUvR0501CjHJyY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__images__2016__03__20160328-channa-masala-recipe-8-2ab6195d55ae4068a8c1d36d7371f5f7.jpg"
+    },
+    {
+        "id":9,
+        "name":"Puri Korma",
+        "price":250,
+        "img":"https://i.redd.it/i4yi94fo7j681.jpg"
+    },
+    {
+        "id":10,
+        "name":"Uthapam",
+        "price":200,
+        "img":"https://c.ndtvimg.com/2022-08/4i2h41mo_uttapam_625x300_10_August_22.jpg"
+    }
+    
+]
